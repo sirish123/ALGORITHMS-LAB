@@ -21,7 +21,7 @@ class Graph{
                     swap(E[i],E[i+1]);
                 }
             }
-        }//sorting is O(n*n) can be minimised using O(nlog(n)) technique
+        }
     }
 };
 class subset{
